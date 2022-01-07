@@ -1,3 +1,3 @@
 # microsweeper-quarkus
 
-# A game
+# A game for the bored
