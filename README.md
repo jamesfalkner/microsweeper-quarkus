@@ -12,7 +12,7 @@ Technologies include:
 
 -----------
 ```
-# run quarkus in dev mode (it will automatically use Quarkus' dev services to create a DB)
+# run QQuarkus in dev mode (it will automatically use Quarkus' dev services to create a DB)
 $ mvn quarkus:dev
 
 # access at http://localhost:8080
